@@ -1,0 +1,7 @@
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\TreciDan3\TreciDan\bin\Debug\TreciDan.exe.config
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\TreciDan3\TreciDan\bin\Debug\TreciDan.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\TreciDan3\TreciDan\bin\Debug\TreciDan.pdb
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\TreciDan3\TreciDan\obj\Debug\TreciDan.csprojAssemblyReference.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\TreciDan3\TreciDan\obj\Debug\TreciDan.csproj.CoreCompileInputs.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\TreciDan3\TreciDan\obj\Debug\TreciDan.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\TreciDan3\TreciDan\obj\Debug\TreciDan.pdb
